@@ -1,5 +1,6 @@
-## Live voice translator
+## Live translator by speech,
 Hi,
+
 I'm happy to share this app here, bc I made this app for my need :D Iill use it almost everyday :D
 
 I am trying to improve my English knowledge and I like to read books in English. Sometimes I read PDFs or e-books with my iPad or computer, but it's a waste of time when I need to check the meaning of a word (I don't know) in the dictionary.
