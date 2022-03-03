@@ -9,5 +9,6 @@ So I thought I could make a program for it. If I come across a word that sounds 
 - Actually I could add reading feature for it also, but I cant be sure if my pronunciation is True or not. So I wanna see the english and the turkish versions of the words on the screen.
 
 I spend some time today on this and here it is.
+![image0](https://user-images.githubusercontent.com/70684994/156655272-057999a9-31be-482b-83cd-3e05e6918fd3.png)
 
 ![image](https://user-images.githubusercontent.com/70684994/156646703-07fb9251-0d96-4836-a8fc-c69c5f2f4a1c.png)
